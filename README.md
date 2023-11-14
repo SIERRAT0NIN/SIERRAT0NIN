@@ -22,7 +22,6 @@ I'm Alberto Sierra, a junior software developer based in San Rafael, CA. I'm exc
 
 - GitHub: https://github.com/SIERRAT0NIN
 - LinkedIn: https://www.linkedin.com/in/sierra-alberto23/
-- Twitter: [Your Twitter handle]
 - Portfolio: coming soon!
 
 Feel free to explore my repositories and provide feedback. I'm always open to collaboration and new opportunities. Let's code together! 🚀
