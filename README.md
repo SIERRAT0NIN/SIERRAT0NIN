@@ -1,6 +1,6 @@
 ### # Hi there! 👋
-https://miro.medium.com/v2/resize:fit:1100/format:webp/1*NZly9Rll3kNainM4DAjBxQ.png
 
+https://miro.medium.com/v2/resize:fit:1100/format:webp/1*NZly9Rll3kNainM4DAjBxQ.png
 
 I'm Alberto Sierra, a junior software developer based in San Rafael, CA. I'm excited about exploring new technologies and building exciting projects. Currently, I'm diving into the world of Python, SQL Alchemy and Flask!
 ## 🚀 My Skills
