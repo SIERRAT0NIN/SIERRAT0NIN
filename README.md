@@ -1,19 +1,20 @@
 ### # Hi there! 👋
 
-I'm [Your Name], a passionate software developer based in [Your Location]. I'm excited about exploring new technologies and building cool projects. Currently, I'm diving into the world of [mention any specific technology or programming language you're currently focused on].
-
+I'm Alberto Sierra, a junior software developer based in San Rafael, CA. I'm excited about exploring new technologies and building exciting projects. Currently, I'm diving into the world of Python, SQL Alchemy and Flask!
 ## 🚀 My Skills
 
-- **Languages:** [List the programming languages you're comfortable with]
-- **Web Development:** [Any specific frameworks or tools you're familiar with]
-- **Database:** [Mention any database systems you've worked with]
-- **Other Technologies:** [Any other relevant technologies or tools]
+
+- **Languages:** JavaScript, Python
+- **Web Development:** React.js, BootStrap, Flask
+- **Database:** SQL, SQL Alchemy, JSON
+
 
 ## 🔧 Tools & Technologies
 
+<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 384 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
 - **IDE:** [Your preferred code editor or IDE]
 - **Version Control:** Git, GitHub
-- **Operating System:** [Windows, macOS, Linux]
+- **Operating System:** macOs
 
 ## 🌱 Currently Learning
 
