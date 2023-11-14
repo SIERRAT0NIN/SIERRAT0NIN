@@ -1,5 +1,5 @@
 <img width="287" alt="Screenshot 2023-11-13 at 8 22 27 PM" src="https://github.com/SIERRAT0NIN/SIERRAT0NIN/assets/124002265/14eef0dc-3863-4618-ab41-187d6dd35c48">
-### # Hi there! 
+## Hi there! 
 
 I'm Alberto Sierra, a junior software developer based in San Rafael, CA. I'm excited about exploring new technologies and building exciting projects. Currently, I'm diving into the world of Python, SQL Alchemy and Flask!
 ## 🚀 My Skills
