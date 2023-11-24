@@ -1,4 +1,3 @@
-<img width="287" alt="Screenshot 2023-11-13 at 8 22 27 PM" src="https://github.com/SIERRAT0NIN/SIERRAT0NIN/assets/124002265/14eef0dc-3863-4618-ab41-187d6dd35c48">
 
 ##    Hi there! 
 
