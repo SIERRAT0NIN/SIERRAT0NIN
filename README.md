@@ -14,7 +14,7 @@ I'm Alberto Sierra, a junior software developer based in San Rafael, CA. I'm exc
 
 
 - **IDE:** Visual Studio Code
-- **Version Control:** Git, GitHub
+- **Version Control:** GitHub
 - **Operating System:** macOs
 
 ## 📫 Let's Connect
