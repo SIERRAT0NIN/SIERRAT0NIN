@@ -4,7 +4,7 @@
 I'm Alberto Sierra, a junior software developer based in San Rafael, CA. I'm excited about exploring new technologies and building exciting projects. Currently, I'm diving into the world of Python, SQL Alchemy and Flask!
 ## 🚀 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,py,html,css,nodejs,flask,github,materialui,bootstrap,vscode,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,py,html,css,nodejs,flask,materialui,bootstrap,vscode,vite,github)](https://skillicons.dev)
 - **Languages:** JavaScript, Python
 - **Web Development:** React.js, BootStrap, Flask
 - **Database:** SQL, SQL Alchemy, JSON
